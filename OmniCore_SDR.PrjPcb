@@ -236,7 +236,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CADIZKZH
 
 [Document12]
-DocumentPath=OminiCore_SDR.PcbDoc
+DocumentPath=OmniCore_SDR.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -253,7 +253,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KIRNPGDG
 
 [Document13]
-DocumentPath=OminiCore_SDR.IntLib
+DocumentPath=OmniCore_SDR.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

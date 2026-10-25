@@ -1,1 +1,1 @@
-# OminiCore-SDR-Hardware
+# OmniCore-SDR-Hardware
