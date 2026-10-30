@@ -129,6 +129,7 @@ CH32H417 承担高速数据桥接和设备控制。Type-C 接口使用 HD3SS3220
 | 文件 | 内容与用途 |
 | --- | --- |
 | [README.md](README.md) | 硬件概览、工程文件索引、PCB 工艺和外壳模型说明。 |
+| [LICENSE](LICENSE) | 硬件设计的 CERN-OHL-S-2.0 许可证全文。 |
 | [.gitignore](.gitignore) | 排除 Altium 预览、历史记录、日志、工程输出及自动生成的工程结构文件。 |
 
 仓库以设计源文件为主，未单独提供已导出的 Gerber、钻孔、BOM 和贴片坐标文件；生产资料需从对应版本的工程导出。`History/`、`__Previews/`、`Project Logs for */`、`Project Outputs for */` 属于本地生成内容，不作为仓库交付文件。
@@ -240,4 +241,4 @@ STEP / STL 是几何模型，实际材料、表面处理、公差与加工工艺
 
 本项目硬件设计采用 **CERN-OHL-S-2.0**（CERN 开放硬件许可证 2.0，强互惠版本）开源。复制、修改、制作和分发相关设计或产品时，请遵守该协议的要求。
 
-协议全文：[CERN-OHL-S-2.0](https://spdx.org/licenses/CERN-OHL-S-2.0.html)。软件、固件及第三方组件以各自仓库中的许可证和版权声明为准。
+协议全文：[LICENSE](LICENSE)；标准文本来源：[SPDX · CERN-OHL-S-2.0](https://spdx.org/licenses/CERN-OHL-S-2.0.html)。软件、固件及第三方组件以各自仓库中的许可证和版权声明为准。
