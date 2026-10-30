@@ -7,7 +7,7 @@ OmniCore SDR 是一款基于 **AD9361 + Zynq-7020 + CH32H417** 的软件无线�
 本仓库提供硬件设计源文件与外壳结构文件，包括 Altium Designer 工程、原理图、PCB、集成元件库，以及 FDM / CNC 两套外壳的 STEP、STL 和配套图纸。固件、板端 Linux 和上位机分别维护在配套仓库中。
 
 <p align="center">
-  <img src="https://image.lceda.cn/oshwhub/pullImage/afd86a16fcad4945aaa4ddb1e545a2af.png" alt="OmniCore SDR 项目展示" width="720" />
+  <img src="docs/images/omnicore-sdr-overview.webp" alt="OmniCore SDR 项目展示" width="720" />
 </p>
 
 ## 目录
@@ -48,7 +48,7 @@ OmniCore SDR 围绕高速 IQ 数据传输、ADI 软件生态兼容以及灵活�
 ## 硬件架构
 
 <p align="center">
-  <img src="https://image.lceda.cn/oshwhub/pullImage/7e16d2b36f244f9baf9beae4b6f02304.png" alt="OmniCore SDR 总体硬件架构" width="960" />
+  <img src="docs/images/hardware-architecture.webp" alt="OmniCore SDR 总体硬件架构" width="960" />
 </p>
 
 ### 射频与 IQ 数据链路
@@ -199,7 +199,7 @@ STEP / STL 是几何模型，实际材料、表面处理、公差与加工工艺
 ### 外壳结构与配件
 
 <p align="center">
-  <img src="https://image.lceda.cn/oshwhub/pullImage/5c7eb5a9362a4e98bb51bd5c81e8870e.png" alt="OmniCore SDR 外壳装配爆炸图" width="720" />
+  <img src="docs/images/enclosure-exploded.webp" alt="OmniCore SDR 外壳装配爆炸图" width="720" />
 </p>
 
 原项目的打印外壳采用螺丝与热熔螺母固定，预留风扇和 LED 导光柱位置。示例使用 **20 × 20 × 6 mm** 风扇，接口为 **1.25 mm 间距、3 Pin**。风扇控制能力取决于风扇型号及接线。
@@ -219,7 +219,7 @@ STEP / STL 是几何模型，实际材料、表面处理、公差与加工工艺
 按键件长度需与实际装配的 PCB 按键高度相匹配。展示照片及爆炸图来自项目原文，可能与仓库当前版本的 LED 数量、射频布局和外壳细节不同，尺寸与装配关系以当前设计文件为准。
 
 <p align="center">
-  <img src="https://image.lceda.cn/oshwhub/pullImage/84f7449eada547bd9dd487b00ca976ff.jpg" alt="OmniCore SDR 外壳装配实物" width="720" />
+  <img src="docs/images/enclosure-assembled.webp" alt="OmniCore SDR 外壳装配实物" width="720" />
 </p>
 
 <a id="related-projects"></a>
